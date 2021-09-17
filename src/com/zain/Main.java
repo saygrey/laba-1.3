@@ -1,8 +1,8 @@
 package com.zain;
 
 public class Main {
-
     public static void main(String[] args) {
-	// write your code here
+	PassChecker checker=new PassChecker();
+	checker.start();
     }
 }
